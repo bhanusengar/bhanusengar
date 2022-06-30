@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @bhanusengar
+## <p align="center">  Hi, 👋 I’m Bhanu sengar (Fullstack Developer)</p>
+- I am professional full stack developer and have been working in this field for 6+ years.
 - 👀 I’m interested in coding & problem solving.
-- 🌱 I’m currently learning ReactJs , NodejS, ExpressJs
-- 💞️ I’m looking to collaborate on ...
 - 📫 If you want to rach me then mail me on bpss2016@gmail.com
+----
+#### :hammer_and_wrench: Tech Stack
+- Programming Languages: Javascript | HTML | CSS | PHP
+- Frameworks: ReactJs | JQuery | Laravel | ExpressJs | CodeIgniter | Bootstrap | NodeJs
+- Database: MySql | MongoDB | Firebase
+- IDEs: Visual Studio Code | Atom | Sublime | IntelliJ IDEA | Brackets | Notepad++
+- API Design Tools : Postman | Insomnia
+- Web Servers : Apache | nginx
+----
+    
 
 <!---
 bhanusengar/bhanusengar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
