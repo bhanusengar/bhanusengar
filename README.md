@@ -10,6 +10,7 @@
 - IDEs: Visual Studio Code | Atom | Sublime | IntelliJ IDEA | Brackets | Notepad++
 - API Design Tools : Postman | Insomnia
 - Web Servers : Apache | nginx
+- Cloud Technologies : AWS
 ----
     
 
