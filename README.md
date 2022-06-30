@@ -1,7 +1,7 @@
 ## <p align="center">  Hi, 👋 I’m Bhanu sengar (Fullstack Developer)</p>
 - I am professional full stack developer and have been working in this field for 6+ years.
 - 👀 I’m interested in coding & problem solving.
-- 📫 If you want to rach me then mail me on bpss2016@gmail.com
+- 📫 If you want to reach me then mail me on bpss2016@gmail.com
 ----
 #### :hammer_and_wrench: Tech Stack
 - Programming Languages: Javascript | HTML | CSS | PHP
