@@ -1,5 +1,5 @@
 ## <p align="center">  Hi, 👋 I’m Bhanu sengar (Fullstack Developer)</p>
-- I am professional full stack developer and have been working in this field for 9+ years.
+- I am professional full stack developer.
 - 👀 I’m interested in coding & problem solving.
 - 📫 If you want to reach me then mail me on bpss2016@gmail.com
 ----
